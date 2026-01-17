@@ -1,6 +1,32 @@
-# 💫 About Me:
-👋 Ciao! Welcome to my GitHub profile!<br><br>I'm a passionate beginner in the programming world, blending a vibrant imagination with an unwavering commitment to go the extra mile. With a rich tapestry of experience as a seasoned Project Manager and a solid foundation with a Master's Degree in Mechanical Engineering, my journey has been anything but conventional. For the majority of my career, I've navigated the complex and dynamic landscape of civil aviation projects, where precision, innovation, and efficiency are not just goals, but necessities.<br><br>🌍 Italian Based in Spain, my heart beats to the rhythm of creativity and perseverance, qualities that I bring from my extensive experience in project management into the realm of coding. Although my journey into programming is at its dawn, my aspirations are sky-high. Here's what I bring to the tech table:<br><br>Why Follow My Journey?<br>Diverse Perspective: With nearly two decades of experience in project management within the civil aviation sector, I offer a unique blend of analytical thinking, problem-solving skills, and a deep understanding of complex project dynamics.<br>Lifelong Learner: At 39, I am embarking on a new chapter in programming, driven by a ceaseless curiosity and a belief in continuous growth. My background in mechanical engineering and project management fuels my methodical approach to learning and applying new technologies.<br>Innovative Ideas: I thrive on innovation and creativity. With a treasure trove of ideas waiting to be developed, I am eager to explore the limitless possibilities that coding offers to transform thoughts into tangible solutions.<br>Collaboration and Leadership: My years as a project manager have honed my skills in leadership, teamwork, and effective communication. I'm looking forward to collaborating on projects that not only challenge me but also contribute positively to the community.<br>Current Learning Path:<br>Languages I'm Exploring: I am currently getting my hands dirty with Python and JavaScript, appreciating their versatility and widespread application in everything from web development to data science.<br>Open to Collaboration: I am keenly seeking opportunities to collaborate on projects, especially those that align with my passion for innovation and technology with a societal impact.<br>Looking Ahead:<br>My vision is to merge my rich background in engineering and project management with my newfound passion for programming. I am particularly excited about exploring areas where technology intersects with sustainable development and automation in civil aviation and beyond.<br><br>Let's Connect!<br>Whether you're a fellow coding enthusiast, potential collaborator, or an employer seeking to add a unique blend of creativity, experience, and passion to your team, I'd love to connect with you. Feel free to reach out for collaborations, ideas, or just to say hi!<br><br>🔗 LinkedIn | 🔗 Twitter<br><br>Thank you for stopping by, and I look forward to embarking on this exciting journey together!
+# About Me:
+👋 Hey, I’m George
 
+Project Manager with a strong engineering background, currently bridging project management and software development.
+
+I have spent most of my career leading complex civil and defense aviation projects, where structure, traceability, risk control, and delivery are non-negotiable. That mindset now drives how I approach programming: clean logic, clear scope, and solutions that actually ship.
+
+What defines me
+	•	Project-first mindset: I don’t code for the sake of code. I build things to solve problems, reduce friction, and deliver value.
+	•	Engineering rigor: Systems thinking, requirements, constraints, and edge cases are second nature to me.
+	•	Hands-on learner: I’m involved in every layer of a project; code, architecture, and business, staying close to each workload and contributing wherever I’m needed.
+	•	Builder mentality: I enjoy turning ideas into working tools, MVPs, dashboards, and automations.
+
+What I’m working on
+	•	Python & JavaScript projects with real-world applications
+	•	Automation, data handling, and lightweight tooling
+	•	Tech applied to aviation, operations, and engineering-heavy environments
+
+Open to collaboration
+
+I’m interested in collaborating on projects where:
+	•	Engineering discipline matters
+	•	Requirements are clear
+	•	Code serves a real operational or business purpose
+
+If you’re looking for someone who understands both delivery and code, we’ll get along just fine.
+
+📫 Let’s connect
+LinkedIn | Twitter
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jorgecasadob) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giorgiocasado) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jorgecasadob) 
